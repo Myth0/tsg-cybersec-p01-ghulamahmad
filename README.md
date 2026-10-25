@@ -1,7 +1,7 @@
 # Personal Security Audit & Password Tool
 
 **Author:** Ghulam Ahmad
-**Project:** TSG Cyber Security Internship — Project 01
+**Project:**  Cyber Security Internship — Project 01
 
 A personal security audit toolkit consisting of a password strength checker (with live breach-exposure checking) and a structured audit process covering common personal security control areas.
 
